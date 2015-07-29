@@ -29,13 +29,13 @@
 
 ##关于Markdown
 不知不觉已经码了这么多字，这时候你可以点击**右键**，然后**审查元素**或者**查看网页源码**，你会惊奇的发现！
-！[源码图片](http://i3.tietuku.com/01736136593a03a4.png)
+![源码图片](http://i3.tietuku.com/01736136593a03a4.png)
 这都TM什么鬼？
 你以为我会写这么蛋疼的东西么？
 所以问题来了，我用什么写的？
 
 答案就是 ---- Markdown
-！[markdown的logo]()
+![markdown的logo](http://i3.tietuku.com/01736136593a03a4.png)
 
 这让你即使不懂html语言也能写出同样效果，而且非常简单
 如果你是一个普通的写手,那么[markdown新手指南](http://www.jianshu.com/p/q81RER)就足够了；
