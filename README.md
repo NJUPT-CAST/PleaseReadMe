@@ -38,10 +38,11 @@
 ![markdown的logo](http://i3.tietuku.com/7cdf422c12852b97.png)
 
 这让你即使不懂html语言也能写出同样效果，而且非常简单
+
 如果你是一个普通的写手,那么[markdown新手指南](http://www.jianshu.com/p/q81RER)就足够了；
 如果你是一个想在页面上写代码的人，那么看完上一篇之后，接着看看这一篇[github上对markdown的教程](https://guides.github.com/features/mastering-markdown/).
 
-彩蛋：**"简书"**配合写markdown效果更好哦~
+彩蛋：[**"简书"**](http://www.jianshu.com/)配合写markdown效果更好哦~
 
 好了就先写到这，希望大家以后多多写教程，多多开坑，多多开仓库，多多做项目，给后来人留下点财产~
 
