@@ -1,5 +1,4 @@
 # PleaseReadMe
-关于本 Organization （请读我）
 
 先说一下建本组织的目的：
 - 增进感情（众人：然而并没有看出来）
