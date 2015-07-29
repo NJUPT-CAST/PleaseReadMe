@@ -35,7 +35,7 @@
 所以问题来了，我用什么写的？
 
 答案就是 ---- Markdown
-![markdown的logo](http://i3.tietuku.com/01736136593a03a4.png)
+![markdown的logo](http://i3.tietuku.com/7cdf422c12852b97.png)
 
 这让你即使不懂html语言也能写出同样效果，而且非常简单
 如果你是一个普通的写手,那么[markdown新手指南](http://www.jianshu.com/p/q81RER)就足够了；
